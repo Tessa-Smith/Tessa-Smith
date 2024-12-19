@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tessa-Smith
-- 👀 I’m interested in biodiversity
+- 👀 I’m interested in biogeography, entomology and palaeoecology
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me tessa.smith@utas.edu.au
